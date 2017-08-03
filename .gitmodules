@@ -1,0 +1,9 @@
+[submodule "BizTalk_Agents"]
+	path = BizTalk_Agents
+	url = git@github.com:tajh/BizTalk_Agents.git
+[submodule "BizTalk_Genius_Integration"]
+	path = BizTalk_Genius_Integration
+	url = git@github.com:tajh/BizTalk_Genius_Integration.git
+[submodule "BizTalk_GenNext_Integration"]
+	path = BizTalk_GenNext_Integration
+	url = git@github.com:tajh/BizTalk_GenNext_Integration.git
